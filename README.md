@@ -13,10 +13,9 @@
 安裝與使用 (Installation & Usage)
 ===
 
-```bash
-方法一：直接線上瀏覽
-👉 GitHub Pages Demo()
-```
+## 方法：直接線上瀏覽
+👉 [GitHub Pages Demo](https://s86481215.github.io/Star-Sensor/)
+
 
 ### 📜 授權 (License)
 ```bash
